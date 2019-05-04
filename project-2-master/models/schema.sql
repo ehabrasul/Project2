@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS coderage_db;
+CREATE DATABASE coderage_db;
